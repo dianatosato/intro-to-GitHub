@@ -1,2 +1,3 @@
 # intro-to-GitHub
-Intro to git hub, first try
+First repository
+Just editing for the class
